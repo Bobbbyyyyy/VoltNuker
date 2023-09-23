@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155192344019214357/Volt_Nuker.png", width="500", height="500">
+<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155192344019214357/Volt_Nuker.png", width="200", height="200">
 </p>
 
 -----
@@ -21,31 +21,18 @@ Volt is a simple discord nuker with an admin panel
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ This time you can be sure skids won't be able to get your code</strong>
+<strong>+ Simple UI</strong>
 <br>
 <strong>+ Very fast execution</strong>
 <br>
-<strong>+ Very good obfuscation</strong>
-<br>
-<strong>+ Can be compiled to .EXE</strong>
-<br>
-
-<p align="right">
-<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155192344019214357/Volt_Nuker.png" width="250", height="250">
-</p>
-
-<br>
-<strong>- You have around 1/10 chance for your obfuscated code to cause an error (I don't know why). If it does, please obfuscate it again</strong>
-<br>
-<strong>- Isn't compatible with all Python versions. You have to try it yourself to see</strong>
-<br><br>
+<strong>+ Multi nuke with an only panel (so you don't need to be in the server)</strong>
 
 -----
 
 ### <p align="center">🎯 Preview 🎯</p>
 
 <p align="right">
-<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155194140871622696/Preview.mp4">
+<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155194140871622696/Preview.mp4",  width="960", height="540">
 
 -----
 
