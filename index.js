@@ -150,7 +150,7 @@ function bot() {
             if (!interaction.isStringSelectMenu()) return
 
             await interaction.reply(`Nuking ${interaction.values[0]}`)
-            console.log(chalk.hex('#8646C6').bold(`💜 |  Nuked ${interaction.values[0]}.`))
+            console.log(chalk.hex('#8646C6').bold(`     💜 |  Nuked ${interaction.values[0]}.`))
 
             var guild = client.guilds.cache.get(interaction.values[0])
 
