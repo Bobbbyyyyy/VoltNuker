@@ -20,12 +20,12 @@ Volt is a simple discord nuker with an admin panel
 
 ### <p align="center">⭐ Features ⭐</p>
 
-<br><br>
-<strong>+ Simple UI</strong>
-<br>
-<strong>+ Very fast execution</strong>
-<br>
-<strong>+ Multi nuke with an only panel (so you don't need to be in the server)</strong>
+```
++ Simple UI
++ Very fast execution
++ Multi nuke with an only panel (so you don't need to be in the server)
+```
+
 
 -----
 
