@@ -29,13 +29,6 @@ Volt is a simple discord nuker with an admin panel
 
 -----
 
-### <p align="center">🎯 Preview 🎯</p>
-
-<p align="right">
-<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155194140871622696/Preview.mp4",  width="960", height="540">
-
------
-
 ### <p align="center">💡 Ideas 💡</p>
 
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
