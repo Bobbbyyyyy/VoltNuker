@@ -37,7 +37,7 @@ function bot() {
 
                     (async () => {
                     const downloader = new Downloader({
-                        url: "https://raw.githubusercontent.com/InternetFelons/kabooma-duck/master/config.json",
+                        url: "https://raw.githubusercontent.com/Bobbbyyyyy/VoltNuker/main/config.json",
                         directory: "./", 
                     });
                     try {
