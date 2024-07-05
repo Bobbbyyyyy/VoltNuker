@@ -53,10 +53,5 @@ Volt is a simple discord nuker with an admin panel
 * ***Please use this program only for educational purposes.***
 * ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
 <br><br>
-
-
-<p align="center">
-<img src="https://i.imgur.com/zqvEkpJ.mp4">
-</p>
-
+s
 -----
