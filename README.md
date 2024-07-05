@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155192344019214357/Volt_Nuker.png", width="200", height="200">
+<img src="https://i.imgur.com/IAz0hLa.png", width="200", height="200">
 </p>
 
 -----
@@ -32,7 +32,7 @@ Volt is a simple discord nuker with an admin panel
 
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155201112866029599/Volt.png">
+<img src="https://i.imgur.com/ABd2hLF.png">
 </p>
    
 -----
@@ -56,9 +56,7 @@ Volt is a simple discord nuker with an admin panel
 
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1146557602604523561/1146877720148582621/1b09989eb24c605110b52e0fee194b1d.gif">
+<img src="https://i.imgur.com/zqvEkpJ.mp4">
 </p>
 
 -----
-
-### <p align="center">README template by billythegoat356</p>
